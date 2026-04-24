@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+עמותת אמא בישראל מחברת תורמים נדיבים עם משפחות נזקקות ברחבי הארץ. תרמו לקמחא דפסחא, מתנות לאביונים ופידיון כפרות — כי כל תרומה מקוונת מביאה אור לבית אחר.
+
+### קמפיינים
+https://example.com/campaigns
+גלו את קמפיינים הצדקה הפעילים שלנו: קמחא דפסחא, מתנות לאביונים ופידיון כפרות לפני יום כיפור. בחרו את המטרה שקרובה ללבכם ותרמו בקלות באינטרנט.
+
+### הסיפור שלנו
+https://example.com/story
+מאז הקמתה בשנת 2023, עמותת אמא בישראל פועלת ללא לאות למען משפחות נזקקות. קראו כיצד חזון אחד הפך לתנועת חסד שמחברת תורמים ונזקקים בכל רחבי ישראל.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על תרומה לפידיון כפרות, קמחא דפסחא או מתנות לאביונים? צוות עמותת אמא בישראל בחריש כאן בשבילכם — צרו קשר עוד היום ונשמח לעזור.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
